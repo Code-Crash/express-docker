@@ -4,7 +4,7 @@
 * This Project is a example of how to use docker with express.
 
 
-* I will add more functionality as soon as I can.
+* TODO: I will add more functionality as soon as I can.
 
 
 ## Docker
